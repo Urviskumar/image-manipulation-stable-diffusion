@@ -167,6 +167,7 @@ Results
 Conclusion
 <p align="justify"> This comprehensive image manipulation project showcases the elegance and sophistication of modern computer vision techniques. By integrating segmentation, inpainting, and generative modeling, the project transcends conventional image editing, offering a glimpse into the complexity and artistry underlying seemingly simple image transformations. The final set of images demonstrates the successful application of these advanced techniques, resulting in cohesive and visually engaging compositions. </p>
 
+# Phase 1: Image Segmentation Restuts:
 
 <p align="start">
   <img src="https://github.com/SanthoshV14/text-to-image-generation/blob/main/images/bird-1.jpeg" alt="Actual Image" width="200"/>
@@ -179,14 +180,33 @@ Conclusion
   <img src="https://github.com/SanthoshV14/text-to-image-generation/blob/main/images/squirrel-1-removed.jpeg" alt="Bird Replaced Image" width="200"/>
 </p>
 
+# Phase 2: Object Removal Results
+<section class="feature left">
+<div class="image-container">
+  <img src="" alt="Err!" width="200" height="200"/></a>
+  
+  <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-1.jpg" alt="Err!" width="200" height="200"/></a>
+  <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-1-squirrelsRemoved.jpg" alt="Err!" width="200" height="200"/></a>
+  
+  <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-2.jpg" alt="Err!" width="200" height="200"/></a>
+  <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-2-squirrelsRemoved.jpg" alt="" width="200" height="200"/></a>
+  
+  <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-3.jpg" alt="Err!" width="200" height="200"/></a>
+  <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-3-squirrelsRemoved.jpg" alt="Err!" width="200" height="200"/></a>
+  
+  <img src="https://github.com/Urviskumar/Inpainting-Birds-with-Generative-Models/blob/main/Birds4_Replaced.jpg" alt="Err!" width="200" height="200"/></a>
+  <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-4.jpg" alt="Err!" width="200" height="200"/></a>
+  <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-4-squirrelsRemoved.jpg" alt="Err!" width="200" height="200"/></a>
+</div>
+</section>
 
-# Bird Replacement
+# Phase 3: Object Replacement Results
 <section class="feature left">
 <div class="image-container">
   <img src="https://github.com/Urviskumar/Inpainting-Birds-with-Generative-Models/blob/main/birds1.jpg" alt="Err!" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Inpainting-Birds-with-Generative-Models/blob/main/Birds1_Replaced.jpg" alt="Err!" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Inpainting-Birds-with-Generative-Models/blob/main/birds2.jpg" alt="Err!" width="200" height="200"/></a>
-  <img src="[images/Project4/Birds2_Replaced.jpg](https://github.com/Urviskumar/Inpainting-Birds-with-Generative-Models/blob/main/Birds2_Replaced.jpg)" alt="Err!" width="200" height="200"/></a>
+  <img src="https://github.com/Urviskumar/Inpainting-Birds-with-Generative-Models/blob/main/Birds2_Replaced.jpg" alt="Err!" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Inpainting-Birds-with-Generative-Models/blob/main/birds3.jpg" alt="" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Inpainting-Birds-with-Generative-Models/blob/main/Birds3_Replaced.jpg" alt="Err!" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Inpainting-Birds-with-Generative-Models/blob/main/birds4.jpg" alt="Err!" width="200" height="200"/></a>
