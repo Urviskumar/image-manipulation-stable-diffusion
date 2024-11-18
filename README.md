@@ -53,6 +53,6 @@ Below image represent the actual image, the masked image and in-painted image.
 </p>
 
 # Author
-Santhos Vadivel </br>
+Santhosh Vadivel </br>
 Email - ssansh3@gmail.com </br>
 LinkedIn - https://www.linkedin.com/in/santhosh-vadivel-2141b8126/ </br>
