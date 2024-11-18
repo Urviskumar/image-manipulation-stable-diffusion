@@ -193,7 +193,6 @@ Conclusion
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-3.jpg" alt="Err!" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-3-squirrelsRemoved.jpg" alt="Err!" width="200" height="200"/></a>
   
-  <img src="https://github.com/Urviskumar/Inpainting-Birds-with-Generative-Models/blob/main/Birds4_Replaced.jpg" alt="Err!" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-4.jpg" alt="Err!" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-4-squirrelsRemoved.jpg" alt="Err!" width="200" height="200"/></a>
 </div>
