@@ -161,10 +161,10 @@ if __name__ == "__main__":
 </ul>
 
 
-Results
+# Results
 <p align="justify"> Below image represent the actual image, the masked image and in-painted image. The project yielded a gallery of transformed images where squirrels were seamlessly removed, and birds were replaced with new, visually engaging species. The modified images blend inpainted regions smoothly, with few traces of the original objects. The filenames of the modified images follow a clear convention, allowing for easy identification of the transformed compositions. </p>
 
-Conclusion
+# Conclusion
 <p align="justify"> This comprehensive image manipulation project showcases the elegance and sophistication of modern computer vision techniques. By integrating segmentation, inpainting, and generative modeling, the project transcends conventional image editing, offering a glimpse into the complexity and artistry underlying seemingly simple image transformations. The final set of images demonstrates the successful application of these advanced techniques, resulting in cohesive and visually engaging compositions. </p>
 
 # Phase 1: Image Segmentation Restuts
