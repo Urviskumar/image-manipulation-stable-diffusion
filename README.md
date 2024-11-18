@@ -183,7 +183,6 @@ Conclusion
 # Phase 2: Object Removal Results
 <section class="feature left">
 <div class="image-container">
-  <img src="" alt="Err!" width="200" height="200"/></a>
   
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-1.jpg" alt="Err!" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-1-squirrelsRemoved.jpg" alt="Err!" width="200" height="200"/></a>
