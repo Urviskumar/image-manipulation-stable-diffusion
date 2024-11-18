@@ -215,6 +215,6 @@ if __name__ == "__main__":
 
 
 # Author
-Santhosh Vadivel | [Email](ssansh3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vsanthosh14) </br>
-Urvishkumar Bharti | [Email](urviskumar.bharti@gmail.com) | [Website](https://github.com/Urviskumar) </br>
-Vikram Shahpur | [Email](vikramvs1306@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vikram-shahapur-754572166) </br>
+Santhosh Vadivel | [Email](mailto:ssansh3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vsanthosh14) </br>
+Urvishkumar Bharti | [Email](mailto:urviskumar.bharti@gmail.com) | [Website](https://github.com/Urviskumar) </br>
+Vikram Shahpur | [Email](mailto:vikramvs1306@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vikram-shahapur-754572166) </br>
