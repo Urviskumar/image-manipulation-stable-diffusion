@@ -1,3 +1,6 @@
+# Image Manipulation with Stable Diffusion: Advanced Inpainting Technique 
+### Tools Used: Python, StableDiffusionInpaintPipeline, Torch
+
 # Introduction
 In this project, I have created a model which detects an object from an image using YOLO segments the detected object using Facebook's SAM and in-paints the detected model according to the given prompt using stable diffusion model from Huggingface.
 
