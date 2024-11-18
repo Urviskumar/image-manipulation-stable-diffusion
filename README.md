@@ -1,6 +1,6 @@
 # Image Manipulation with Stable Diffusion: Advanced Inpainting Technique
 
-### Tools Used: Python, StableDiffusionInpaintPipeline, Torch
+### Tools Used: Python, StableDiffusionInpaintPipeline, PyTorch
 
 ## Aim
 
@@ -155,9 +155,9 @@ if __name__ == "__main__":
   <li>https://huggingface.co/runwayml/stable-diffusion-inpainting</li>
   <li>https://huggingface.co/hustvl/yolos-tiny</li>
   <li>Pytorch</li>
-  <li>tensorflow</li>
-  <li>numpy</li>
-  <li>matplotlib</li>
+  <li>Tensorflow</li>
+  <li>Numpy</li>
+  <li>Matplotlib</li>
 </ul>
 
 
@@ -167,7 +167,7 @@ Results
 Conclusion
 <p align="justify"> This comprehensive image manipulation project showcases the elegance and sophistication of modern computer vision techniques. By integrating segmentation, inpainting, and generative modeling, the project transcends conventional image editing, offering a glimpse into the complexity and artistry underlying seemingly simple image transformations. The final set of images demonstrates the successful application of these advanced techniques, resulting in cohesive and visually engaging compositions. </p>
 
-# Phase 1: Image Segmentation Results
+# Phase 1: Image Segmentation Restuts
 
 <p align="start">
   <img src="https://github.com/SanthoshV14/text-to-image-generation/blob/main/images/bird-1.jpeg" alt="Actual Image" width="200"/>
@@ -183,16 +183,12 @@ Conclusion
 # Phase 2: Object Removal Results
 <section class="feature left">
 <div class="image-container">
-  
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-1.jpg" alt="Err!" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-1-squirrelsRemoved.jpg" alt="Err!" width="200" height="200"/></a>
-  
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-2.jpg" alt="Err!" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-2-squirrelsRemoved.jpg" alt="" width="200" height="200"/></a>
-  
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-3.jpg" alt="Err!" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-3-squirrelsRemoved.jpg" alt="Err!" width="200" height="200"/></a>
-  
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-4.jpg" alt="Err!" width="200" height="200"/></a>
   <img src="https://github.com/Urviskumar/Image-Removal-Advanced-Inpainting-Technique/blob/main/squirrel-4-squirrelsRemoved.jpg" alt="Err!" width="200" height="200"/></a>
 </div>
@@ -219,9 +215,6 @@ Conclusion
 
 
 # Author
-Santhosh Vadivel </br>
-Urvishkumar Bharti </br>
-Vikram Shahpur </br>
-Email - ssansh3@gmail.com </br>
-Email - urviskumar.bharti@gmail.com </br>
-LinkedIn - https://www.linkedin.com/in/santhosh-vadivel-2141b8126/ </br>
+Santhosh Vadivel | [Email](ssansh3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vsanthosh14) </br>
+Urvishkumar Bharti | [Email](urviskumar.bharti@gmail.com) | [Website](https://github.com/Urviskumar) </br>
+Vikram Shahpur | [Email](vikramvs1306@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vikram-shahapur-754572166) </br>
